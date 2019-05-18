@@ -13,7 +13,7 @@ import android.widget.TextView;
 
 import com.example.latihan3prauts.R;
 import com.example.latihan3prauts.model.DailyActivityModel;
-
+//17-05-2019  NIM : 10116344 Nama : R Muhammad Restu Fauzi KELAS : IF8
 public class DailyActivityAdapter extends RecyclerView.Adapter<DefaultCardViewHolder> {
 
     private Context context;
@@ -106,7 +106,7 @@ class DefaultCardViewHolder extends RecyclerView.ViewHolder {
         comment = itemView.findViewById(R.id.daily_activity_comment);
     }
 }
-
+//17-05-2019  NIM : 10116344 Nama : R Muhammad Restu Fauzi KELAS : IF8
 class CardOnlyTextViewHolder extends DefaultCardViewHolder {
     public CardOnlyTextViewHolder(View itemView) {
         super(itemView);

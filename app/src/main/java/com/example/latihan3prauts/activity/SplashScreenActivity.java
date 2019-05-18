@@ -6,6 +6,7 @@ import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 
 import com.example.latihan3prauts.R;
+//17-05-2019  NIM : 10116344 Nama : R Muhammad Restu Fauzi KELAS : IF8
 
 public class SplashScreenActivity extends AppCompatActivity {
 

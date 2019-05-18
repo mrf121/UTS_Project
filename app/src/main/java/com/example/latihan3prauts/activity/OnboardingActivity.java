@@ -13,7 +13,7 @@ import android.widget.TextView;
 import com.example.latihan3prauts.R;
 import com.example.latihan3prauts.adapter.OnBoardingAdapter;
 import com.example.latihan3prauts.manager.PrefManager;
-
+//17-05-2019  NIM : 10116344 Nama : R Muhammad Restu Fauzi KELAS : IF8
 public class OnboardingActivity extends AppCompatActivity {
     private LinearLayout dotsLayout;
     private TextView[] dots;

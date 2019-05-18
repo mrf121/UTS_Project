@@ -32,6 +32,9 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MapStyleOptions;
 import com.google.android.gms.maps.model.MarkerOptions;
 
+
+//17-05-2019  NIM : 10116344 Nama : R Muhammad Restu Fauzi KELAS : IF8
+
 public class FindMeActivity extends AppCompatActivity implements OnMapReadyCallback, NavigationView.OnNavigationItemSelectedListener {
     private int clickedNavItem = 0;
 

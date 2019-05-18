@@ -8,7 +8,7 @@ import android.support.v4.app.FragmentPagerAdapter;
 import com.example.latihan3prauts.fragment.BiodataFragment;
 import com.example.latihan3prauts.fragment.DailyActivityFragment;
 import com.example.latihan3prauts.fragment.GalleryFragment;
-
+//17-05-2019  NIM : 10116344 Nama : R Muhammad Restu Fauzi KELAS : IF8
 public class HomeAdapter extends FragmentPagerAdapter {
     private static int ITEM_COUNT = 3;
 

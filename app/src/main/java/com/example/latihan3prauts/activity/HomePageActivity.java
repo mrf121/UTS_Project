@@ -17,6 +17,7 @@ import android.view.View;
 import com.example.latihan3prauts.R;
 import com.example.latihan3prauts.adapter.HomeAdapter;
 
+//17-05-2019  NIM : 10116344 Nama : R Muhammad Restu Fauzi KELAS : IF8
 public class HomePageActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
     FloatingActionButton btnFab;

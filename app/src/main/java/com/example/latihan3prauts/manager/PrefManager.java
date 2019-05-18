@@ -2,7 +2,7 @@ package com.example.latihan3prauts.manager;
 
 import android.content.Context;
 import android.content.SharedPreferences;
-
+//17-05-2019  NIM : 10116344 Nama : R Muhammad Restu Fauzi KELAS : IF8
 public class PrefManager {
     SharedPreferences pref;
     SharedPreferences.Editor editor;

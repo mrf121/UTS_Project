@@ -15,7 +15,7 @@ import com.example.latihan3prauts.adapter.DailyActivityAdapter;
 import com.example.latihan3prauts.adapter.FriendAdapter;
 import com.example.latihan3prauts.model.DailyActivityModel;
 import com.example.latihan3prauts.model.FriendModel;
-
+//17-05-2019  NIM : 10116344 Nama : R Muhammad Restu Fauzi KELAS : IF8
 /**
  * A simple {@link Fragment} subclass.
  */

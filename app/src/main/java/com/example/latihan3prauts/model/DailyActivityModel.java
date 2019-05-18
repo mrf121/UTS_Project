@@ -1,5 +1,5 @@
 package com.example.latihan3prauts.model;
-
+//17-05-2019  NIM : 10116344 Nama : R Muhammad Restu Fauzi KELAS : IF8
 public class DailyActivityModel {
     private int[] image;
     private String time;
