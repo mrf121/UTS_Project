@@ -45,7 +45,7 @@
                 android:textAlignment="center"
                 android:paddingLeft="30dp"
                 android:paddingRight="30dp"
-                android:text="Hello fabulous internet people, I’m Irfan Andriansyah" />
+                android:text="" />
 
         </LinearLayout>
     </android.support.constraint.ConstraintLayout>
