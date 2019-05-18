@@ -1,5 +1,5 @@
 package com.example.latihan3prauts.activity;
-
+//17-05-2019  NIM : 10116344 Nama : R Muhammad Restu Fauzi KELAS : IF8
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
